@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Najem Nabhan 👋</h1>
+<h1 align="center">Hi 👋, I'm Najem Nabhan</h1>
 
 <p align="center">
   <strong>Industrial Engineer · Technical Project Manager · AI & Business Alignment</strong>
