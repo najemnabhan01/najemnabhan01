@@ -17,7 +17,7 @@
 
 ### 🧭 About me
 
-I'm a technically-driven **Project Manager** with a foundation in **Industrial Engineering**, **Agile methodologies**, and **AI-powered solutions**. I lead cross-functional teams at **[Dappsco](https://dappsco.com)** to ship products where business strategy and technical execution actually meet — no hand-offs, no broken telephone.
+I'm a technically-driven **Project Manager** with a foundation in **Industrial Engineering**, **Agile methodologies**, and **AI-powered solutions**. I lead cross-functional teams to ship products where business strategy and technical execution actually meet — no hand-offs, no broken telephone.
 
 My goal: evolve from PM into **Tech Lead** — combining management discipline with hands-on technical leadership.
 
