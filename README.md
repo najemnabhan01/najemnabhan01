@@ -22,7 +22,7 @@ I'm a technically-driven **Project Manager** with a foundation in **Industrial E
 My goal: evolve from PM into **Tech Lead** — combining management discipline with hands-on technical leadership.
 
 ```yaml
-role:        IT Project Manager @ Dappsco
+role:        IT Project Manager 
 focus:       AI integration · API design · ERP & systems integration · scalable delivery
 working_on:  prompt engineering pipelines & data-driven product workflows
 learning:    system architecture · backend engineering · cloud infra
@@ -139,7 +139,7 @@ languages:   Spanish (native) · English (fluent) · Arabic (intermediate)
 
 ### 🧪 What I'm building
 
-- **Dappsco client products** — agile delivery of AI-integrated solutions across industries
+- **Client products** — agile delivery of AI-integrated solutions across industries
 - **ERP & billing integrations** — connecting operational systems with accounting and messaging layers
 - **Prompt engineering tooling** — repeatable patterns for automation & internal workflows
 - **Personal experiments** — exploring audio, full-stack, and AI side projects
